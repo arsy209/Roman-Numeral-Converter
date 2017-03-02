@@ -1,6 +1,3 @@
-# roman-searcher-javascript
+#Convert Numbers to Roman Numerals
 
-```
-this app will take a number as its input and convert it to its roman numeral form
-
-```
+This application is able to take a number and convert it to its corresponding roman numeral number. 
